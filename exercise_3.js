@@ -1,4 +1,4 @@
-// Nota: x/10
+// Nota: 2/10
 const clearText = (word) => {
   const cleanText = word.toLowerCase().replace(/[.,-]/gi, '');
   return cleanText.split(' ');

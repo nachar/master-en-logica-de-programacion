@@ -1,4 +1,4 @@
-// // Nota: x/10
+// // Nota: 4/10
 const splitArray = (elements, divider) => {
   return elements.reduce((total, item, index) => {
     if (!(index % divider)) return [...total, [...[item]]];

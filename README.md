@@ -2,8 +2,8 @@
 ## Udemy course 
 
 ### To run the exercise: 
-`
+```
 node FILE_NAME
-`
+```
 
 # You can use nodemon to monitor scripts

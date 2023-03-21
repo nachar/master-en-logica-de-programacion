@@ -1,4 +1,4 @@
-// Nota: x/10
+// Nota: 0.5/10
 
 const showNumbers = (num) => {
   while (num >= 0) {
